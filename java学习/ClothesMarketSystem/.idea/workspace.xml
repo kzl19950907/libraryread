@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4aa3a9d-501e-4bf2-b4ad-f186d390067c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/CoreText/CoreText/CoreText.xcodeproj/project.xcworkspace/xcuserdata/kouzhonglong.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/CoreText/CoreText/CoreText.xcodeproj/xcuserdata/kouzhonglong.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/CoreText/CoreText/podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo.xcodeproj/project.xcworkspace/xcuserdata/kouzhonglong.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo.xcodeproj/xcuserdata/kouzhonglong.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/Class/CustomClass.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/Class/CustomClass.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/Class/FastRorwardingClass.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/Class/FastRorwardingClass.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/SceneDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/SceneDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/ViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/ViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../iOS学习笔记/MsgSendDemo/MsgSendDemo/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClothesMarketSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vince/bean/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vince/bean/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vince/bean/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vince/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vince/utils/OrderStatusType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/.idea/artifacts/web_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/.idea/scopes/scope_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/ConnectToMySQLH.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/out/production/ConnectToMySQLH/MySqlDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/src/MySqlDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySQLH/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/.idea/dataSources/557acf51-d8b1-4e73-ad35-31210a3c664a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/ConnectToMySql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-aop-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-aspects-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-beans-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-context-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-context-support-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-core-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-expression-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-instrument-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-jdbc-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-jms-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-messaging-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-orm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-oxm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-test-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/lib/spring-tx-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/out/production/ConnectToMySql/MySqlDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToMySql/src/MySqlDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToSql/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToSql/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToSql/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToSql/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToSql/ConnectToSql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToSql/out/production/ConnectToSql/MySqlConnect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConnectToSql/src/MySqlConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commavenartifactid/.idea/artifacts/commavenartifactid_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commavenartifactid/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commavenartifactid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commavenartifactid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commavenartifactid/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commavenartifactid/commavenartifactid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commavenartifactid/out/artifacts/commavenartifactid_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commavenartifactid/out/artifacts/commavenartifactid_war_exploded/WEB-INF/classes/com/wql/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commavenartifactid/out/artifacts/commavenartifactid_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commavenartifactid/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commavenartifactid/src/main/java/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commavenartifactid/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../commavenartifactid/target/classes/com/wql/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../笔记/Java基础知识笔记/java知识点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目/java基础知识/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目/java基础知识/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目/java基础知识/.idea/dataSources/f5a85f60-4625-48ef-bc25-86a1ade744fc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目/java基础知识/out/production/项目/JavaClassDescription$JavaProtocol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目/java基础知识/out/production/项目/JavaClassDescription$SubJavaClassDescription.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目/java基础知识/out/production/项目/JavaDataStructure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目/java基础知识/src/JavaDataStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../笔记/Centos环境配置/centos配置jdk+mysql+tomcat.md" beforeDir="false" afterPath="$PROJECT_DIR$/../笔记/Centos环境配置/centos配置jdk+mysql+tomcat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../项目/java基础知识/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../项目/java基础知识/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../项目/java基础知识/out/production/项目/JavaClassDescription.class" beforeDir="false" afterPath="$PROJECT_DIR$/../项目/java基础知识/out/production/项目/JavaClassDescription.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../项目/java基础知识/out/production/项目/NSObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../项目/java基础知识/out/production/项目/NSObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../项目/java基础知识/out/production/项目/SubNsobject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../项目/java基础知识/out/production/项目/SubNsobject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../项目/java基础知识/src/JavaClassDescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/../项目/java基础知识/src/JavaClassDescription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../项目/java基础知识/src/JavaXSF.java" beforeDir="false" afterPath="$PROJECT_DIR$/../项目/java基础知识/src/JavaXSF.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/vince/bean/Clothes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <folding>
+                <element signature="e#1116#1117#0" expanded="true" />
+                <element signature="e#1150#1151#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/vince/bean/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/vince/bean/OrderItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding>
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/vince/bean/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/vince/utils/OrderStatusType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="package-info" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/vince/bean/Clother.java" />
+        <option value="$PROJECT_DIR$/src/com/vince/bean/Clothes.java" />
+        <option value="$PROJECT_DIR$/src/com/vince/bean/OrderItem.java" />
+        <option value="$PROJECT_DIR$/src/com/vince/utils/OrderStatusType.java" />
+        <option value="$PROJECT_DIR$/src/com/vince/bean/Order.java" />
+        <option value="$PROJECT_DIR$/src/com/vince/bean/User.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="checksumPolicy" value="FAIL" />
+        <option name="failureBehavior" value="FAST" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="451" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ClothesMarketSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClothesMarketSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClothesMarketSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClothesMarketSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClothesMarketSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClothesMarketSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vince" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.21" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.21" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/web_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4aa3a9d-501e-4bf2-b4ad-f186d390067c" name="Default Changelist" comment="" />
+      <created>1563284700653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563284700653</updated>
+      <workItem from="1563284704224" duration="4218000" />
+      <workItem from="1563796213807" duration="2092000" />
+      <workItem from="1564031642755" duration="760000" />
+      <workItem from="1570694123484" duration="178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7248000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="451" y="23" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17032968" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/vince/bean/Clother.java" />
+    <entry file="file://$PROJECT_DIR$/src/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vince/bean/Clothes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#1116#1117#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vince/bean/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vince/bean/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vince/utils/OrderStatusType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vince/bean/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>dom4jrrrrr</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ClothesMarketSystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31152633" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

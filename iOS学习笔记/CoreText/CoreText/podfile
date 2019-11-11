@@ -1,0 +1,6 @@
+
+target 'CoreText' do
+
+    pod 'Masonry'
+
+end

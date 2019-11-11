@@ -117,6 +117,7 @@ final  class TestFinalClass{
 *   子类继承必须实现abstract的方法 除非子类也是抽象类
 *
 *   抽象类可以不包含任何抽象方法
+*   一个类只能继承一个抽象类 实现多个接口
 * */
 abstract class NSObject{
 

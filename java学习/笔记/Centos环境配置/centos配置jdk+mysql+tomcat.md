@@ -36,75 +36,78 @@
 
      <img src ='./jdk上传文件.png' width=600px div align = left>
 
+    
+
   3. 解压jdk `tar -zxvf jdk-8u11-linux-x64.tar.gz `
 
   4. 配置环境变量 `vi /etc/profile` 在最后添加如下内容 
-
-     ```
-     export JAVA_HOME=/usr/java/jdk1.8.0_11
-     export JRE_HOME=${JAVA_HOME}/jre
-     export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib:$CLASSPATH
-     export JAVA_PATH=${JAVA_HOME}/bin:${JRE_HOME}/bin
-     export PATH=$PATH:${JAVA_PATH}
-     ```
-
-     <img src ='./jdk环境配置.png' width=600px div align = left>
-
+  
      
+  
+  ```
+  export JAVA_HOME=/usr/java/jdk1.8.0_11
+  export JRE_HOME=${JAVA_HOME}/jre
+export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib:$CLASSPATH
+  export JAVA_PATH=${JAVA_HOME}/bin:${JRE_HOME}/bin
+export PATH=$PATH:${JAVA_PATH}
+  ```
 
-  5. 让配置生效 `source /etc/profile`
+  <img src ='./jdk环境配置.png' width=600px div align = left>
 
-  6. 验证jdk `java -version` 出现jdk版本信息就成功了
+  
 
-  <img src ='./jdk验证.png' width=600px div align = left>
-
+  1. 让配置生效 `source /etc/profile`
+2. 验证jdk `java -version` 出现jdk版本信息就成功了
+  
+<img src ='./jdk验证.png' width=600px div align = left>
   
 
   
 
-  #### 二、tomcat
-
-    1. 准备[tomcat安装包](https://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-9/v9.0.21/bin/apache-tomcat-9.0.21.tar.gz) 
-
-    2. 连接上远程服务器 上传到 /usr/local/tomcat 目录下
-
+  
+#### 二、tomcat
+  
+  1. 准备[tomcat安装包](https://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-9/v9.0.21/bin/apache-tomcat-9.0.21.tar.gz) 
+  
+  2. 连接上远程服务器 上传到 /usr/local/tomcat 目录下
+  
     3. 解压tomcat 
-
+  
        ```
-       tar -zxvf apache-tomcat-9.0.21.tar.gz
+     tar -zxvf apache-tomcat-9.0.21.tar.gz
        mv apache-tomcat-9.0.21/* /usr/local/tomcat
-       ```
-
+     ```
+  
   		4. 启动Tomcat
-
+  
        ```
        cd /usr/local/tomcat/bin
-       ./startup.sh
+     ./startup.sh
        关闭tomcat shutdown.sh
-       ```
-
-  		5. 配置web管理账号
-
-       ` <user name="admin" password="admin" roles="admin-gui,manager-gui" />`
-
-       <img src ='./tomcat配置web管理账号.png' width=600px div align= left>
-
-  		6. 配置端口
-
-       <font size=2>可以修改conf目录下的文件server.xml，修改Connector元素(Tomcat的默认端口是8080)，需要重新启动Tomcat服务生效</font>
-
-       `vim /usr/local/tomcat/conf/server.xml`
-
-  		7. 访问tomcat
-
-       `http://49.234.138.180:9999/`
-
-  #### 三、mysql
-
-  ​		<font size=2> 推荐mysql 官方安装教程 [传送门](https://www.runoob.com/mysql/mysql-install.html) </font>
-
+     ```
+  
+		5. 配置web管理账号
+  
+     ` <user name="admin" password="admin" roles="admin-gui,manager-gui" />`
+  
+     <img src ='./tomcat配置web管理账号.png' width=600px div align= left>
+  
+		6. 配置端口
+  
+     <font size=2>可以修改conf目录下的文件server.xml，修改Connector元素(Tomcat的默认端口是8080)，需要重新启动Tomcat服务生效</font>
+  
+     `	`
+  
+		7. 访问tomcat
+  
+     `http://49.234.138.180:9999/`
+  
+#### 三、mysql
+  
+​		<font size=2> 推荐mysql 官方安装教程 [传送门](https://www.runoob.com/mysql/mysql-install.html) </font>
+  
   * 安装mysql server
-
+  
   ```
     wget http://repo.mysql.com/mysql80-community-release-el7-3.noarch.rpm
     rpm -ivh mysql80-community-release-el7-3.noarch.rpm
@@ -114,22 +117,22 @@
    	chown mysql:mysql -R /var/lib/mysql
   	初始化mysql
   	mysqld --initialize
-  	启动mysql
+	启动mysql
   	systemctl start mysqld
-  ```
-
-  * 启动mysql报错 查看mysql日志
-
-    `vim /var/log/mysqld.log` 
-
-    发现是权限问题 `The innodb_system data file 'ibdata1' must be writable`
-
-     修改文件的权限即可`chmod -R 777 /usr/local/mysql/data/`
-
-    执行完重启mysql
-
-  * 验证mysql安装
-
+```
+  
+* 启动mysql报错 查看mysql日志
+  
+  `vim /var/log/mysqld.log` 
+  
+  发现是权限问题 `The innodb_system data file 'ibdata1' must be writable`
+  
+   修改文件的权限即可`chmod -R 777 /usr/local/mysql/data/`
+  
+  执行完重启mysql
+  
+* 验证mysql安装
+  
     `mysql --version`
-
+  
     <img src='./mysql安装验证.png' width=700px div align=left>

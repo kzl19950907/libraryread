@@ -131,5 +131,39 @@ public class JavaClassDescription {
 
 
 
+    /*
+    *
+    *  协议
+    * */
+
+    public interface JavaProtocol {
+
+
+        public void eat();
+
+        public void run();
+    }
+
+
+    class SubJavaClassDescription extends JavaClassDescription implements JavaProtocol{
+
+
+        public void testProtocol(){
+
+            this.eat();
+            this.run();
+        }
+
+        @Override
+        public void eat() {
+
+
+        }
+
+        @Override
+        public void run() {
+
+        }
+    }
 
 }
